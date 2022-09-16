@@ -9,11 +9,11 @@ ul{
 }
 
 body {
-    background-image: url(https://wallpaperaccess.com/full/901534.jpg);
-    background-position: top center;
-    background-size: 150% auto;
-    background-repeat: no-repeat;
-    /*background-color: #121214;*/
+    background-image: url(./assets/estrelas.png);
+    background-position: absolute;
+    background-size: 100% auto;
+    background-repeat: repeat;
+    background-color: #121214;
 }
 
 body *{
@@ -69,7 +69,7 @@ section{
 }
 
 section div{
-    background-color: #2A2634;
+    background-color: #1c1a20;
     padding: 32px;
     padding-top: 24px;
     border-radius: 8px;
